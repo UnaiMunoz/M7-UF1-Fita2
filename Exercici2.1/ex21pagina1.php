@@ -9,7 +9,6 @@
 
     <h2>Login</h2>
 
-    <!-- Formulario de login -->
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="POST">
         <label for="userName">User: </label>
         <input type="text" name="userName" placeholder="ej: Unai"required /><br><br>

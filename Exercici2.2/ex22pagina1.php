@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>QUANTITAT</h1>
-    <form action="Exercici_2.2.php" method="post">
+    <form action="ex22pagina2.php" method="post">
         <label for="quantitat">Introdueix una quantitat: </label>
         <input type="number" name="quantitat" required><br></br>
         <input type="submit" value="Generar Links">

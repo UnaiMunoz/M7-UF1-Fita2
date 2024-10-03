@@ -11,7 +11,7 @@
         $quantitat = $_POST['quantitat'];
 
         for ($i = 1; $i <= $quantitat; $i++) {
-            echo "<p><a href='Exercici_2.3.php?comanda=$i'>Comanda $i</a></p>";
+            echo "<p><a href='ex22pagina3?comanda=$i'>Comanda $i</a></p>";
         }
     ?>
 </body>
